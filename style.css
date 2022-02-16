@@ -22,8 +22,8 @@ header {
 
 }
 .conteudo {
-    
-   background-image: url(imagens/Vector\ 2.svg);
+   width: 100%;
+   background-image: url(imagens/elemento-top.svg);
    background-repeat: no-repeat;
    background-position: top right;
 
@@ -285,4 +285,5 @@ header {
 
 .elemento-footer {
     width: 100%;
+    right: 150px;
 }
